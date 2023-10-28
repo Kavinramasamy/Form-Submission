@@ -1,4 +1,4 @@
-ar fname = document.getElementById("fname");
+var fname = document.getElementById("fname");
 var lname = document.getElementById("lname");
 var address1 = document.getElementById("address1");
 var address2 = document.getElementById("address2");
